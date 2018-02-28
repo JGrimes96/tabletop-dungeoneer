@@ -1,0 +1,31 @@
+{
+  "name": "tabletop-dungeoneer",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGrimes96/tabletop-dungeoneer.git"
+  },
+  "keywords": [
+    "Phaser",
+    "Multiplayer",
+    "game",
+    "Node.js",
+    "socket.io"
+  ],
+  "author": "Jerome Renaux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JGrimes96/tabletop-dungeoneer/issues"
+  },
+  "homepage": "https://github.com/JGrimes96/tabletop-dungeoneer#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^1.7.4"
+  }
+}
